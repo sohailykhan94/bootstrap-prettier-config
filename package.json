@@ -1,0 +1,13 @@
+{
+  "name": "bootstrap-prettier-config",
+  "version": "1.0.0",
+  "description": "Personal prettier config",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sohailykhan94/bootstrap-prettier-config.git"
+  },
+  "author": "Sohail Yar Khan",
+  "license": "ISC",
+  "homepage": "https://github.com/sohailykhan94/bootstrap-prettier-config#readme"
+}
