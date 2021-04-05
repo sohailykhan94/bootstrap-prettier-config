@@ -14,7 +14,7 @@ Basic prettier config which can be referenced and locally extended in your proje
 # Usage
 ## Add to package
 ```
-yarn add sohailykhan94@bootstrap-prettier-config -D
+yarn add https://github.com/sohailykhan94/bootstrap-prettier-config -D
 ```
 
 ## Include in local config
